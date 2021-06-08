@@ -1,0 +1,7 @@
+{
+  "name": "djfront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
